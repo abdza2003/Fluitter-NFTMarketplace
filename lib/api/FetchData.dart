@@ -5,7 +5,7 @@ import 'package:sampleproject/api/listCoin.dart';
 
 Future<dynamic> getInfByApi() async {
   ListCoinInf = [];
-  const String apiKey = '90f07294-ddf7-4f1f-8878-d05999517b71';
+  const String apiKey = apiKeyFromCoinMarketCap;
   http.Response res = await http.get(
     Uri.parse(
         'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'),
