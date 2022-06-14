@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930836126786",
+    "project_id": "nftnetworkapp-cb092",
+    "storage_bucket": "nftnetworkapp-cb092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930836126786:android:6805ed7cd08511b90561db",
+        "android_client_info": {
+          "package_name": "com.abdza1355.nftnetworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930836126786-ksj56vhjo0nqs2rmg5vd2sqpkgvmskcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLxuT5fsg8qDXmFhyqy0TqhBu3cwD7pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930836126786-ksj56vhjo0nqs2rmg5vd2sqpkgvmskcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
