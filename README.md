@@ -1,7 +1,6 @@
 # nftnetwork
-
-A new Flutter project.
 https://user-images.githubusercontent.com/86608368/179496082-52da9a53-6648-44b4-b7cf-c3ad06472f58.mp4
+A new Flutter project.
 
 
 ## Getting Started
